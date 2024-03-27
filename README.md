@@ -1,5 +1,5 @@
 # PizzaMenu
-Side Project(React) - A Static Web Working With Components, Props and JSX
+React Practice - A Static Web Working With Components, Props and JSX
 
 ---
 
